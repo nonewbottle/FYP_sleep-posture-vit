@@ -12,8 +12,8 @@ https://github.com/nonewbottle/FYP_sleep-posture-vit
 - Hardware Requirements:
   GPU (NVIDIA preferred) for training (e.g., Google Colab, Kaggle Notebook, or local CUDA support)
 
-3. Dataset
-- Name: Simultaneously-collected multimodal Lying Pose (SLP) dataset
+3. Dataset (Simultaneously-collected multimodal Lying Pose (SLP))
+- This project uses the SLP dataset (RGB modality) by Liu & Ostadabbas
 - Access Instructions:
   This dataset requires access permission from the ACLab.
   Please request access and download the dataset from the official SLP page:
