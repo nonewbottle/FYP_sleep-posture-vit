@@ -19,7 +19,8 @@ Platforms: Kaggle Notebook, Google Colab, or local CUDA-enabled machine
 
 ## 3. Dataset  
 - **Name**: Simultaneously-collected multimodal Lying Pose (SLP) dataset  
-- **Modality Used**: RGB  
+- **Modality Used**: RGB
+- **Blanket Condition**: thin, cover1 (thick), cover2 (thin)  
 - **Access Instructions**:  
 This dataset requires access permission from the ACLab.  
 Please request access and download the dataset from the official SLP page:  
