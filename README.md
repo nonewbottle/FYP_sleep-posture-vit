@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 - **Hardware Requirements**:  
 GPU (NVIDIA preferred) for training  
-Platforms: Google Colab, Kaggle Notebook, or local CUDA-enabled machine
+Platforms: Kaggle Notebook, Google Colab, or local CUDA-enabled machine
 
 ## 3. Dataset  
 - **Name**: Simultaneously-collected multimodal Lying Pose (SLP) dataset  
