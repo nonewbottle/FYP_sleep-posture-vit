@@ -27,7 +27,7 @@ https://ostadabbas.sites.northeastern.edu/slp-dataset-for-multimodal-in-bed-pose
 
 ## 4. How to Run  
 
-### Option A: Run on Kaggle (Recommended)  
+### ✅ Option A: Run on Kaggle (Recommended)  
 - Upload the notebook and dataset to https://www.kaggle.com/code  
 - Kindly change the dataset path manually in the notebook to match the uploaded location (e.g., `/kaggle/input/your-dataset-name`)  
 - Make sure to set the runtime to GPU in Settings  
